@@ -21,6 +21,6 @@
     "react-leaflet": "^4.x"
   },
   "dependencies": {
-    "leaflet.fullscreen": "2.4.0"
+    "leaflet.fullscreen": "3.0.2"
   }
 }
